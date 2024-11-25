@@ -1,5 +1,5 @@
 # Monitoreo-de-redes-automatizado
-Este proyecto implementa un sistema de monitoreo de red y alerta para detectar IPs no permitidas, realizar diagnósticos de conectividad (ping) y enviar notificaciones por correo electrónico sobre incidentes.
+Este proyecto implementa un sistema de monitoreo de red y alerta para detectar IP no permitidas, realizar diagnósticos de conectividad (ping) y enviar notificaciones por correo electrónico sobre incidentes.
 
 # Descripción
 El código está diseñado para:
